@@ -39,5 +39,4 @@ Due to uncertainty in the exact problem generation from the *Turing.co* paper,
 - **`benchmarking/`** — Benchmarking scripts for running LQA and other solvers.
 - **`results/`** — Recorded metrics, plots, and comparative analysis.
 
-cd lqa-benchmarking
-pip install -r requirements.txt
+
