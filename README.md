@@ -29,7 +29,7 @@ The objective of this project is to:
 3. Provide reproducible benchmarking data for future research.
 
 Due to uncertainty in the exact problem generation from the *Turing.co* paper,  
-**indirect comparisons** are made where identical input matrices are unavailable.
+**indirect comparisons** are made since identical input matrices are unavailable.
 
 ---
 
