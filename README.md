@@ -26,17 +26,13 @@ The objective of this project is to:
    - Simulated Annealing
    - Simulated Bifurcation
    - Other quantum-inspired algorithms
-3. Provide reproducible benchmarking data for future research.
 
 Due to uncertainty in the exact problem generation from the *Turing.co* paper,  
-**indirect comparisons** are made since identical input matrices are unavailable.
+**indirect comparisons** are made since reliable objective functions were unavailable.
 
 ---
 
 ## 📂 Repository Contents
-- **`problems/`** — Scripts for generating Max-Cut, NAE-3-SAT, and SK problem instances.
-- **`lqa_bowles/`** — PyTorch implementation of LQA (adapted from Bowles et al.).
-- **`benchmarking/`** — Benchmarking scripts for running LQA and other solvers.
-- **`results/`** — Recorded metrics, plots, and comparative analysis.
+- **`problem Instances/`** — Scripts for generating Max-Cut, NAE-3-SAT, and SK problem instances.
 
 
